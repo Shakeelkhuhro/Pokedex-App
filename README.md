@@ -1,6 +1,6 @@
 # Pokedex App
 
-This is a professional-grade Pokedex application built with React. It allows users to browse and view information about different Pokemon. The app leverages various concepts and libraries to provide a smooth and engaging user experience.
+This is a Pokedex application built with React. It allows users to browse and view information about different Pokemon. The app leverages various concepts and libraries to provide a smooth and engaging user experience.
 
 ## Features
 
