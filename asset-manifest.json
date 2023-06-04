@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shakeelkhuhro/Pokedex-App/static/css/main.9de17841.css",
+    "main.js": "/Shakeelkhuhro/Pokedex-App/static/js/main.c6920362.js",
+    "index.html": "/Shakeelkhuhro/Pokedex-App/index.html",
+    "main.9de17841.css.map": "/Shakeelkhuhro/Pokedex-App/static/css/main.9de17841.css.map",
+    "main.c6920362.js.map": "/Shakeelkhuhro/Pokedex-App/static/js/main.c6920362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de17841.css",
+    "static/js/main.c6920362.js"
+  ]
+}
