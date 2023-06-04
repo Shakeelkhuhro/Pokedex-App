@@ -32,20 +32,20 @@ This is a simple Pokedex application built with React. It allows users to browse
 ## Folder Structure
 
 src/
-|- components/
-| |- Header.js
-| |- Loader.js
-| |- Pokemon.js
-|
-|- pages/
-| |- Homepage.js
-| |- PokemonPage.js
-|
-|- App.js
-|- index.js
-|- App.css
-|- index.css
-|- ...
+|- components/  <br>
+| |- Header.js<br>
+| |- Loader.js<br>
+| |- Pokemon.js<br>
+|<br>
+|- pages/<br>
+| |- Homepage.js<br>
+| |- PokemonPage.js<br>
+|<br>
+|- App.js<br>
+|- index.js<br>
+|- App.css<br>
+|- index.css<br>
+|- ...<br>
 
 
 ## Contributing
